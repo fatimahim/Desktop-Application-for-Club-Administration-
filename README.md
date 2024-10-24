@@ -1,1 +1,1 @@
-"# Website-for-a-Travel-Agency" 
+Creation and development of a desktop application for the administrative management of a club using MFC (Microsoft Foundation Classes). This application facilitates member management, event scheduling, and record keeping.
